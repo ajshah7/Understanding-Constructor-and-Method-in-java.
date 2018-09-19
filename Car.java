@@ -1,6 +1,6 @@
 /* By Ajmal shah
    SIMPLE WAY TO UNDERSTAND THE WORKING OF CONSTRUCTOR AND METHOD IN JAVA.
-   play and modify with the code untill you're a expert.
+   play and modify with the code untill you're an expert.
 
 REMEMBER: CONSTRUCTOR -  has no return type and are as the same name as the class.
                          They can be called/involked without the .dot operator.
